@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ae07628d3cadf441c98594bcc256becd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemyPrefab1: {fileID: 195220, guid: 625e6e05dca734480a6094f6ae51be4a, type: 3}
+  - enemyPrefab2: {fileID: 195220, guid: 625e6e05dca734480a6094f6ae51be4a, type: 3}
+  - tombstone: {fileID: 1267867599410510237, guid: 41c93fbf5af1fdb4991efb3cc91ea24c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
